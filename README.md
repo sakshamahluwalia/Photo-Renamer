@@ -4,7 +4,7 @@
 
 # Photo-Renamer
 
-This apllication is built to allow users to rename images and apply filters to them.
+This application is built to allow users to rename images and apply filters to them.
 
 ## Getting Started
 
