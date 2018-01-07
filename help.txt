@@ -1,0 +1,8 @@
+To run the program: 
+
+Assuming we are already in the folder group_0510:
+
+cd phase2/src
+javac Driver.java -Xlint
+java Driver
+
